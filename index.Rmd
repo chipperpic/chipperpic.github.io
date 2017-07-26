@@ -3,3 +3,8 @@ title: "My Website"
 ---
 
 Something
+
+```{r}
+mean(sleep$extra)
+```
+
