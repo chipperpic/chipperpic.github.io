@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Working Page"
+      href: Working_page.html
 output:
   html_document:
     theme: cosmo

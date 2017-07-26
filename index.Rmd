@@ -7,4 +7,3 @@ Something
 ```{r}
 mean(sleep$extra)
 ```
-
