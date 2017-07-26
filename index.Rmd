@@ -7,3 +7,6 @@ Something
 ```{r}
 mean(sleep$extra)
 ```
+
+
+![Me](headshot.jpg)
