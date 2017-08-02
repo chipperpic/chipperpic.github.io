@@ -9,4 +9,3 @@ mean(sleep$extra)
 ```
 
 
-![Me](headshot.jpg)
