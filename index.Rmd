@@ -1,8 +1,8 @@
 ---
-title: "My Website"
+title: "The Buffer: Exploring The Suicide Rates In Black America"
 ---
 
-Something
+
 
 ```{r}
 mean(sleep$extra)
