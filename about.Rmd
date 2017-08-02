@@ -1,5 +1,9 @@
 ---
-title: "About This Website"
+title: "About"
 ---
+```{r}
+
+```
 
 More about this website.
+This project looks to explore the suicides rates within the African American community and determine why it remains one of the lowest rates among other ethnic groups within the country. More specifically, although the suicide rates within the Black community has been incrementally increasing throughout the more recent decades, we believe that such factors as relgiosity and outward aggressivity have played pivotal roles in influencing these rates.
