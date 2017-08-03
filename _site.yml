@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About The Project"
+    - text: "About This Stat Project"
       href: about.html
     - text: "Contact"
       href: Working_page.html
