@@ -4,9 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About The Project"
       href: about.html
-    - text: "Working Page"
+    - text: "Contact"
       href: Working_page.html
 output:
   html_document:
