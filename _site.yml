@@ -1,6 +1,6 @@
-name: "my-website"
+name: "The Pickett Project"
 navbar:
-  title: "My Website"
+  title: "The Buffer: Exporing Suicide Rates Within Black America"
   left:
     - text: "Home"
       href: index.html
